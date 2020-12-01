@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5bbe645-944e-49c0-988d-917535708bd7" name="Default Changelist" comment="" />
+    <list default="true" id="b5bbe645-944e-49c0-988d-917535708bd7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,12 +168,35 @@
       <workItem from="1606441634021" duration="4451000" />
       <workItem from="1606447922663" duration="6928000" />
       <workItem from="1606726150784" duration="15819000" />
-      <workItem from="1606803161099" duration="4662000" />
+      <workItem from="1606803161099" duration="4947000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1606808023642</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606808023642</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="938" y="202" key="#Project_Structure" timestamp="1606807843805">
@@ -194,6 +219,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="637" y="193" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606446607863" />
+    <state x="560" y="132" width="1278" height="815" key="CommitChangelistDialog2" timestamp="1606808332713">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="132" width="1278" height="815" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1606808332713" />
     <state width="415" height="466" key="DebuggerActiveHint" timestamp="1606790899710">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -226,6 +255,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="401" y="177" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1606803065105" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1606808335331">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606808335331" />
     <state width="968" height="548" key="XDebugger.FullValuePopup" timestamp="1606788771694">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
