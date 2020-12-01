@@ -16,6 +16,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -37,12 +45,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1kgBLFUv8yX8KpGpdAW085TTvf4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
@@ -156,7 +166,7 @@
       <workItem from="1606441634021" duration="4451000" />
       <workItem from="1606447922663" duration="6928000" />
       <workItem from="1606726150784" duration="15819000" />
-      <workItem from="1606803161099" duration="4103000" />
+      <workItem from="1606803161099" duration="4662000" />
     </task>
     <servers />
   </component>
@@ -164,10 +174,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="938" y="202" key="#Project_Structure" timestamp="1606786963589">
+    <state x="938" y="202" key="#Project_Structure" timestamp="1606807843805">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="938" y="202" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1606786963589" />
+    <state x="938" y="202" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1606807843805" />
     <state x="774" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606209441708">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
