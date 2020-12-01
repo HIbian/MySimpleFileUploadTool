@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5bbe645-944e-49c0-988d-917535708bd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\software\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="E:/software/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\software\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="sxw-repository" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kgBLFUv8yX8KpGpdAW085TTvf4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_181" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.ClientGUI">
+    <configuration name="AppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibian.test.AppTest" />
+      <module name="JVMtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibian.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibian.fx.ClientGUI" />
+      <module name="JVMtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibian.fx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibian.socket.fileupload.FileClient" />
+      <module name="JVMtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibian.fx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibian.socket.fileupload.FileServer" />
+      <module name="JVMtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibian.fx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibian.socket.fileupload.fx" />
+      <module name="JVMtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibian.fx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientGUI" />
+        <item itemvalue="Application.fx" />
+        <item itemvalue="Application.FileClient" />
+        <item itemvalue="Application.FileServer" />
+        <item itemvalue="Application.AppTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5bbe645-944e-49c0-988d-917535708bd7" name="Default Changelist" comment="" />
+      <created>1606112296571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606112296571</updated>
+      <workItem from="1606112298276" duration="6344000" />
+      <workItem from="1606121513345" duration="9536000" />
+      <workItem from="1606441634021" duration="4451000" />
+      <workItem from="1606447922663" duration="6928000" />
+      <workItem from="1606726150784" duration="15819000" />
+      <workItem from="1606803161099" duration="4103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="938" y="202" key="#Project_Structure" timestamp="1606786963589">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="938" y="202" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1606786963589" />
+    <state x="774" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606209441708">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="774" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606209441708" />
+    <state x="1126" y="248" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1606118541831">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1126" y="248" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606118541831" />
+    <state x="1151" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1606120462096">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1151" y="259" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1606120462096" />
+    <state x="637" y="193" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606446607863">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="637" y="193" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606446607863" />
+    <state width="415" height="466" key="DebuggerActiveHint" timestamp="1606790899710">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="415" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1606790899710" />
+    <state x="1080" y="304" key="EnvironmentVariablesDialog" timestamp="1606115316403">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1080" y="304" key="EnvironmentVariablesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606115316403" />
+    <state x="738" y="311" key="FileChooserDialogImpl" timestamp="1606803181208">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="738" y="311" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1606803181208" />
+    <state width="1875" height="242" key="GridCell.Tab.0.bottom" timestamp="1606807388025">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="242" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606807388025" />
+    <state width="1875" height="242" key="GridCell.Tab.0.center" timestamp="1606807388025">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="242" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606807388025" />
+    <state width="1875" height="242" key="GridCell.Tab.0.left" timestamp="1606807388024">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="242" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606807388024" />
+    <state width="1875" height="242" key="GridCell.Tab.0.right" timestamp="1606807388025">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="242" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606807388025" />
+    <state x="401" y="177" key="SettingsEditor" timestamp="1606803065105">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="401" y="177" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1606803065105" />
+    <state width="968" height="548" key="XDebugger.FullValuePopup" timestamp="1606788771694">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="968" height="548" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1606788771694" />
+    <state x="61" y="93" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606804639692">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="61" y="93" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606804639692" />
+    <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1606804639692">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606804639692" />
+    <state x="983" y="518" key="extract.method.dialog" timestamp="1606791645833">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="983" y="518" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606791645833" />
+    <state x="334" y="235" key="new project wizard" timestamp="1606446885466">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="334" y="235" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1606446885466" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1606468882681">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1606468882681" />
+  </component>
+</project>
