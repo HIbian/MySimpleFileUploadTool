@@ -29,8 +29,10 @@ public class ClientGUI extends Application {
     @Override
     public void start(Stage primaryStage) throws IOException {
 
+        //1.创建Pane,用于承载控件
         AnchorPane anchorPane = new AnchorPane();
 
+        //2.创建控件
         Label serverAddrLabel = new Label("服务器地址");
         serverAddrLabel.setLayoutX(37.0d);
         serverAddrLabel.setLayoutY(30.0d);
@@ -49,6 +51,7 @@ public class ClientGUI extends Application {
         Button chooseFilePathButton = new Button("选择文件");
         chooseFilePathButton.setLayoutX(281.0d);
         chooseFilePathButton.setLayoutY(76.0d);
+        //3.设置按钮点击事件
         chooseFilePathButton.setOnAction(event -> {
             FileChooser fileChooser=new FileChooser();
             File file = fileChooser.showOpenDialog(primaryStage);
@@ -71,6 +74,7 @@ public class ClientGUI extends Application {
             }
         });
 
+        //4.添加控件到Pane
         anchorPane.getChildren().add(serverAddrLabel);
         anchorPane.getChildren().add(filePathLabel);
         anchorPane.getChildren().add(serverAddrText);
@@ -78,10 +82,10 @@ public class ClientGUI extends Application {
         anchorPane.getChildren().add(uploadButton);
         anchorPane.getChildren().add(stateLabel);
         anchorPane.getChildren().add(chooseFilePathButton);
-        // 将pane加入到Scen中
+        //5.将pane加入到Scen中
         Scene scene = new Scene(anchorPane, 360, 150);
 
-        // 设置stage的scen，然后显示我们的stage
+        //6.设置stage的scen，显示stage
         primaryStage.setScene(scene);
         primaryStage.setTitle("File Upload Client");
         primaryStage.show();
